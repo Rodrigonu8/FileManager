@@ -5,8 +5,8 @@ from pkgutil import extend_path
 from PIL import Image
 import os
 
-downloadsFolder = "C:/Users/rodri/Downloads/"
-picturesFolder = "C:/Users/rodri/OneDrive/Pictures/"
+downloadsFolder = "C:/Users/rodri/Downloads"
+picturesFolder = "C:/Users/rodri/OneDrive/Pictures"
 
 
 if __name__ == "__main__":
